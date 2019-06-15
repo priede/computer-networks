@@ -1,4 +1,4 @@
-## Number Tic-Tac-Toe ##
+# Number Tic-Tac-Toe #
 # Introduction #
 Number Tic-Tac-Toe is a variation of the classic with the exception of a little math twist added to the game. This makes the game more challenging, but also practices basic addition skills for those of use who need some refreshing.
 
